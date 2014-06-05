@@ -37,7 +37,7 @@
                     <img src="image/adida.jpg"/>
                 </div>
                 <div class="profile">
-                    <form method="post" action="registrace.php">
+                    <form method="post" action="controler/registrace.php">
                         <p><input type="name" name="name" value="" placeholder="Jmeno"></p>
                         <div id="result" style="color: red;height: -1px"></div>
                         <p><input id="password" type="password" name="pass" value="" placeholder="Password"></p>
